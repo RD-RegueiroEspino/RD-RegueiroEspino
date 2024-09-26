@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bo día! Hello!
 
+My name is Ramón Daniel Regueiro Espiño. Currently, I am doing a PhD in Physics-Aware Deep Learning models. You can see more about me on [my website](https://rd-regueiroespino.github.io).
 <!--
 **RD-RegueiroEspino/RD-RegueiroEspino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
